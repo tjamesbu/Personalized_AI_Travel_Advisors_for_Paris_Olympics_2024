@@ -22,7 +22,7 @@ Paris, France Chapter - Developing Personalized AI Travel Advisors for Paris Oly
 ```
 ├── LICENSE
 ├── README.md          <- The top-level README for developers/collaborators using this project.
-├── original           <- Not for this project
+├── original           <- Original Source Code of the challenge hosted by omdena. Can be used as a reference code for the current project goal.
 │
 │
 ├── reports            <- Folder containing the final reports/results of this project
