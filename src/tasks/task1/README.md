@@ -1,13 +1,21 @@
-# ParisFranceChapter_AITravelAdvisors
+#             ***TASK 1: RESEARCH & GATHER DATA***
+                       
+
+     
+     
+     
+     
+     
+                  # ParisFranceChapter_AITravelAdvisors
 
 Paris, France Chapter - Developing Personalized AI Travel Advisors for Paris Olympics 2024 & Beyond
 
-## Project Details
+### Project Details
 
 
-## Demo
+### Demo
 
-## Contribution Guidelines
+### Contribution Guidelines
 
 - Have a Look at the project structure and folder overview below to understand where to store/upload your contribution
 - If you're creating a task, Go to the task folder and create a new folder with the below naming convention and add a README.md with task details and goals to help other contributors understand
@@ -17,7 +25,7 @@ Paris, France Chapter - Developing Personalized AI Travel Advisors for Paris Oly
 - Make sure your File names(jupyter notebooks, python files, data sheet file names etc) has proper naming to help others in easily identifing them.
 - Please restrict yourself from creating unnessesary folders other than in 'tasks' folder (as above mentioned naming convention) to avoid confusion.
 
-## Project Structure
+### Project Structure
 
 ```
 ├── LICENSE
@@ -47,7 +55,7 @@ Paris, France Chapter - Developing Personalized AI Travel Advisors for Paris Oly
 
 ---
 
-## Folder Overview
+### Folder Overview
 
 - Original - Folder Containing old/completed Omdena challenge code.
 - Reports - Folder to store all Final Reports of this project
@@ -62,7 +70,7 @@ Paris, France Chapter - Developing Personalized AI Travel Advisors for Paris Oly
 - Visualization - Folder to store dashboards, analysis and visualization reports
 - Results - Folder to store final analysis modelling results for the project.
 
-## Project Setup
+### Project Setup
 
 <Add the project setup steps here. You can add more or less than the suggested ones.>
 
