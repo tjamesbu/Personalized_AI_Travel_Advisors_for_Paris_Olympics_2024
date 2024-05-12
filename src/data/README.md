@@ -2,10 +2,27 @@
 
 Paris, France Chapter - Developing Personalized AI Travel Advisors for Paris Olympics 2024 & Beyond
 
-## Project Details
+## Index of Data Files
 
+When adding new data file, please add the details in below table:
 
-## Demo
+|Name | Data File | Script file |
+|-----|-----------|-------------|
+|Transportation data|||
+|Restaurants|||
+|Accommodations|||
+|Medical Facilities|||
+|Emergency Contact Numbers|||
+|Paris Open Data|||
+|Open Data - Paris Olympics|||
+|Paris Syndrome|||
+|Tourist passes|||
+|Transportation data|||
+|Emergency Contact Numbers|||
+|Short-term rentals (AIRBNB)|||
+|Open Data-Paris|||
+|List of diplomatic missions in Paris|src/data/diplomatic_missions.csv|src/tasks/task1/diplomatic_missions.py|
+|Real-time availability data - Bicycles and terminals - Vélib|||
 
 ## Contribution Guidelines
 
