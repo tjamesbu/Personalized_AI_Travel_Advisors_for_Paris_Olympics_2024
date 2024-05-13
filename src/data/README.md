@@ -18,7 +18,7 @@ When adding new data file, please add the details in below table:
 |Paris Syndrome|||
 |Tourist passes|||
 |Transportation data|||
-|Emergency Contact Numbers|||
+|Emergency Contact Numbers|src/data/paris_embassies_website_phone.csv||
 |Short-term rentals (AIRBNB)|||
 |Open Data-Paris|src/data/events.csv, src/data/metropole_stations.csv, src/data/hidden_treasures.csv|scr/tasks/task1/scraping_using_crewai_tool.py, scr/tasks/task1/scraping_pipeline_using_crewai.py|
 |List of diplomatic missions in Paris|src/data/diplomatic_missions.csv|src/tasks/task1/diplomatic_missions.py|
