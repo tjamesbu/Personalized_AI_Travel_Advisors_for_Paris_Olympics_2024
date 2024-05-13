@@ -1,0 +1,36 @@
+Venue,Sports
+Arena Bercy,"['Basketball', 'Gymnastique Artistique', 'Trampoline']"
+Arena Champ-de-Mars,"['Judo', 'Lutte']"
+Arena Paris Nord,"['Boxe', 'Pentathlon Moderne']"
+Arena Paris Sud,"['Haltérophilie', 'Handball', 'Tennis de Table', 'Volleyball']"
+Arena Porte de La Chapelle,"['Badminton', 'Gymnastique Rythmique']"
+Centre Aquatique,"['Natation Artistique', 'Plongeon', 'Water-Polo']"
+Centre National de Tir de Châteauroux,['Tir']
+Château de Versailles,"['Pentathlon Moderne', 'Sports Équestres']"
+Colline d'Elancourt,['Cyclisme VTT']
+Grand Palais,"['Escrime', 'Taekwondo']"
+Hôtel de Ville,['Athlétisme']
+Invalides,"['Athlétisme', 'Cyclisme sur route', ""Tir à L'Arc""]"
+La Concorde,"['Basketball 3x3', 'Breaking', 'Cyclisme BMX Freestyle', 'Skateboard']"
+Golf National,['Golf']
+Marina de Marseille,['Voile']
+Parc des Princes,['Football']
+Paris La Défense Arena,"['Natation', 'Water-Polo']"
+Pont Alexandre III,"['Cyclisme sur route', 'Natation, marathon', 'Triathlon']"
+Site d'escalade Bourget,['Escalade Sportive']
+Stade BMX de Saint-Quentin-en-Yvelines,['Cyclisme BMX Racing']
+Stade de Bordeaux,['Football']
+Stade de France,"['Athlétisme', 'Rugby à 7']"
+Stade de la Beaujoire,['Football']
+Stade de Lyon,['Football']
+Stade de Marseille,['Football']
+Stade de Nice,['Football']
+Stade Geoffroy-Guichard,['Football']
+Stade Nautique de Vaires-sur-Marne,"['Aviron', 'Canoë Slalom', 'Canoë Sprint']"
+Stade Pierre Mauroy,"['Basketball', 'Handball']"
+Stade Roland-Garros,"['Boxe', 'Tennis']"
+Stade Tour Eiffel,['Volleyball de plage']
+Stade Yves-du-Manoir,['Hockey sur Gazon']
+"Teahupo'o, Tahiti",['Surf']
+Trocadéro,"['Athlétisme', 'Cyclisme sur route']"
+Vélodrome National de Saint-Quentin-en-Yvelines,['Cyclisme sur piste']
