@@ -1,1 +1,1 @@
-This folder contains files related to attrations
+This folder contains files related to attractions
