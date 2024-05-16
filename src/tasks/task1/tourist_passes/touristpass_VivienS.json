@@ -1,0 +1,2476 @@
+[
+    {
+        "element_id": "35c3a2ba5d0c41245a5df8693b580a8d",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1
+        },
+        "text": "Paris\r\ntourist passes 2024",
+        "type": "Title"
+    },
+    {
+        "element_id": "884b32b57f8247e0c8c5ed7fffd33764",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1
+        },
+        "text": "pros & cons",
+        "type": "Title"
+    },
+    {
+        "element_id": "453a3ca17f199234f28425119969d2f4",
+        "metadata": {
+            "category_depth": 1,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "884b32b57f8247e0c8c5ed7fffd33764"
+        },
+        "text": "Is\r\na tourist pass essential in Paris?",
+        "type": "Title"
+    },
+    {
+        "element_id": "a80304e9440a9c72fe321984fe3c4f41",
+        "metadata": {
+            "category_depth": 1,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "453a3ca17f199234f28425119969d2f4"
+        },
+        "text": "Explore\r\nFrance \u25ba",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "6c4525b784b29badde4fd3ac51023d3c",
+        "metadata": {
+            "category_depth": 1,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Home page",
+                "Where to\r\nstay",
+                "Find\r\na hotel",
+                "Climate\r\n& weather",
+                "Plan your\r\ntrip",
+                "France on a\r\nbudget",
+                "Eating in\r\nFrance",
+                "Camping\r\nin France",
+                "Search About-France",
+                "A-Z of\r\nFrench life"
+            ],
+            "link_urls": [
+                "index.htm",
+                "accommodation.htm",
+                "france-hotel-search.htm",
+                "climate-weather.htm",
+                "visit-france.htm",
+                "budget-france.htm",
+                "food-and-eating.htm",
+                "tourism/camping.htm",
+                "search.htm",
+                "dictionary/index.htm"
+            ],
+            "page_number": 1,
+            "parent_id": "453a3ca17f199234f28425119969d2f4"
+        },
+        "text": "The\r\nessentials\r\n\nHome page\nWhere to\r\nstay\nFind\r\na hotel\nClimate\r\n& weather\nPlan your\r\ntrip\nFrance on a\r\nbudget\nEating in\r\nFrance \nCamping\r\nin France\nSearch About-France\nA-Z of\r\nFrench life",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "0ff6a5f7ca3ab186dc03068d0020d15d",
+        "metadata": {
+            "category_depth": 1,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Driving in France",
+                "Motorway\r\nservices",
+                "Routes\r\nfrom Calais",
+                "Rules of the\r\nroad",
+                "Driving\r\nchecklist",
+                "Ferries\r\nto France",
+                "Flying to\r\nFrance",
+                "Rail\r\ntravel in France",
+                "Bus and\r\ncoach travel"
+            ],
+            "link_urls": [
+                "driving.htm",
+                "motorway-services.htm",
+                "routes-from-calais.htm",
+                "highway-code.htm",
+                "driving-checklist.htm",
+                "cross-channel-ferries.htm",
+                "fly-to-france.htm",
+                "france-rail-travel.htm",
+                "france-bus-travel.htm"
+            ],
+            "page_number": 1,
+            "parent_id": "453a3ca17f199234f28425119969d2f4"
+        },
+        "text": "Travel in France\r\n\nDriving in France\nMotorway\r\nservices\nRoutes\r\nfrom Calais\nRules of the\r\nroad\nDriving\r\nchecklist\nFerries\r\nto France\nFlying to\r\nFrance\nRail\r\ntravel in France\nBus and\r\ncoach travel",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "62a1fc3ee1577704715da528db60a2b2",
+        "metadata": {
+            "category_depth": 1,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Paris",
+                "Other\r\nmain cities",
+                "Choose a region",
+                "The\r\nsouth of France",
+                "The\r\nDordogne",
+                "The\r\nFrench seaside",
+                "The\r\nLoire\r\nvalley",
+                "The\r\nMassif\r\ncentral"
+            ],
+            "link_urls": [
+                "paris.htm",
+                "tourism/best-cities.htm",
+                "regions.htm",
+                "regions/south-of-france.htm",
+                "tourism/river-dordogne-area.htm",
+                "tourism/french-seaside-coast.htm",
+                "tourism/chateaux-loire.htm",
+                "tourism/massif-central.htm"
+            ],
+            "page_number": 1,
+            "parent_id": "453a3ca17f199234f28425119969d2f4"
+        },
+        "text": "Where to go\r\n\nParis\nOther\r\nmain cities\nChoose a region\nThe\r\nsouth of France\nThe\r\nDordogne\nThe\r\nFrench seaside\nThe\r\nLoire\r\nvalley\nThe\r\nMassif\r\ncentral",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "60d04d44f30190a81f8bc26516ebaa89",
+        "metadata": {
+            "category_depth": 1,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Top\r\nattractions",
+                "Best\r\nof France",
+                "Heritage\r\ncities",
+                "Skiing\r\n&\r\nwintersports",
+                "Best\r\nsmall towns",
+                "Best\r\nof rural\r\nFrance",
+                "Wild\r\nFrance",
+                "Tourist\r\nmap of\r\nFrance"
+            ],
+            "link_urls": [
+                "tourism/tourist-attractions.htm",
+                "tourism/best-of-france.htm",
+                "cities/index.htm",
+                "tourism/skiing.htm",
+                "tourism/small-towns.htm",
+                "tourism/rural-france.htm",
+                "tourism/wild-france.htm",
+                "tourism/tourist-map-france.htm"
+            ],
+            "page_number": 1,
+            "parent_id": "453a3ca17f199234f28425119969d2f4"
+        },
+        "text": "What to see and do\r\n\nTop\r\nattractions\nBest\r\nof France\nHeritage\r\ncities\nSkiing\r\n&\r\nwintersports\nBest\r\nsmall towns\nBest\r\nof rural\r\nFrance\nWild\r\nFrance\nTourist\r\nmap of\r\nFrance",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "cbedf27cbabfe18ad8600928b1876d38",
+        "metadata": {
+            "emphasized_text_contents": [
+                "\u25ba"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "453a3ca17f199234f28425119969d2f4"
+        },
+        "text": "\u25ba\u00a0You\r\nare here:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8686f0c46134b7816d225e6e1278db71",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "About-France.com\r\n"
+            ],
+            "link_urls": [
+                "../index.htm"
+            ],
+            "page_number": 1
+        },
+        "text": "About-France.com\r\n\u00a0\u203a",
+        "type": "Title"
+    },
+    {
+        "element_id": "41e68ea95d1eb210bc00e2cb71e40c9e",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Paris"
+            ],
+            "link_urls": [
+                "../paris.htm"
+            ],
+            "page_number": 1
+        },
+        "text": "Paris\r\n\u00a0\r\n\u203a Tourist passes",
+        "type": "Title"
+    },
+    {
+        "element_id": "9fe72899ae14b57adc1a55e24ad42f3e",
+        "metadata": {
+            "category_depth": 0,
+            "emphasized_text_contents": [
+                "About-France.com"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1
+        },
+        "text": "About-France.com\r\n- the connoisseur's guide to France",
+        "type": "Title"
+    },
+    {
+        "element_id": "8fd744aef6a39931a7d2ddf4a8ce3c6a",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Pass\r\nComparer"
+            ],
+            "link_urls": [
+                "compare-paris-passes.htm#Compare"
+            ],
+            "page_number": 1,
+            "parent_id": "9fe72899ae14b57adc1a55e24ad42f3e"
+        },
+        "text": "\u00a0Jump\r\nstraight to\r\nthe ",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "fea2635c28225419fda773fa1bbee3e3",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Pass\r\nComparer"
+            ],
+            "link_urls": [
+                "compare-paris-passes.htm#Compare"
+            ],
+            "page_number": 1
+        },
+        "text": "Pass\r\nComparer",
+        "type": "Title"
+    },
+    {
+        "element_id": "e13fad05c5fd964c9a17911e5039d96c",
+        "metadata": {
+            "category_depth": 0,
+            "emphasized_text_contents": [
+                "IMPORTANT"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1
+        },
+        "text": "IMPORTANT:\r\nCovid pass",
+        "type": "Title"
+    },
+    {
+        "element_id": "1a6e7df5d5dceda6139cb5fe09948da3",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1
+        },
+        "text": "Update 2024.",
+        "type": "Title"
+    },
+    {
+        "element_id": "85285a798c82a33d3c1d6d0d1856ea88",
+        "metadata": {
+            "emphasized_text_contents": [
+                "Covid\r\nrestrictions no longer apply for entry to\r\nmuseums, restaurants and other public places. Masks remain recommended\r\non\r\npublic transport, and may be required for hospital / surgery visits."
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "1a6e7df5d5dceda6139cb5fe09948da3"
+        },
+        "text": "Covid\r\nrestrictions no longer apply for entry to\r\nmuseums, restaurants and other public places. Masks remain recommended\r\non\r\npublic transport, and may be required for hospital / surgery visits.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6f49d5b16de37460a33a129d27bc05d9",
+        "metadata": {
+            "emphasized_text_contents": [
+                "There are currently no\r\ncovid-related\r\nrestrictions on visitors entering France, but the situation could\r\nchange at any moment in the event of a new outbreak. Visitors are\r\ntherefore advised to make sure that they are fully protected against\r\ncovid, before traveling."
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "1a6e7df5d5dceda6139cb5fe09948da3"
+        },
+        "text": "There are currently no\r\ncovid-related\r\nrestrictions on visitors entering France, but the situation could\r\nchange at any moment in the event of a new outbreak. Visitors are\r\ntherefore advised to make sure that they are fully protected against\r\ncovid, before traveling.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "aa99e33fb826aa3e8cc1262ba2dbc2c3",
+        "metadata": {
+            "category_depth": 2,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "1a6e7df5d5dceda6139cb5fe09948da3"
+        },
+        "text": "Visitor passes\r\nThere's a massive amount of advertising on the Internet to\r\nencourage\r\nanyone interested in visiting Paris to buy a tourist pass. For some\r\nvisitors, a pass will definitely be worth having; but for others a pass\r\nis quite unnecessary. \u00a0Check out the pros and the cons with\r\nthis clear guide.",
+        "type": "Title"
+    },
+    {
+        "element_id": "16976ef70dde312b4e911a1090f6094c",
+        "metadata": {
+            "category_depth": 2,
+            "emphasized_text_contents": [
+                "are"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "1a6e7df5d5dceda6139cb5fe09948da3"
+        },
+        "text": "Visitor\r\npasses are not essential, but they are\r\nvery valuable",
+        "type": "Title"
+    },
+    {
+        "element_id": "ed7491b9b75922a85bd602459273d1d1",
+        "metadata": {
+            "category_depth": 2,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "1a6e7df5d5dceda6139cb5fe09948da3"
+        },
+        "text": "You\r\nwill\r\nwant a pass if....\r\nYou value your limited time in Paris, and don't want to waste too much\r\ntime standing in queues.\r\nWith a Paris tourist pass in your pocket, you can \"skip the lines\",\r\ni.e. avoid most of the queues that form outside the entrance to all the\r\nmain monuments and museums... and that can mean litterally saving\r\nseveral hours of queueing if you visit Paris during a popular period.\r\nIf you value your time, you'll value a pass.",
+        "type": "Title"
+    },
+    {
+        "element_id": "b923a4b75baa0598a0e5e0da2a97e14a",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "ed7491b9b75922a85bd602459273d1d1"
+        },
+        "text": "There are several different Paris visitor passes available.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2a9e1ca5d33f8e32a915ecb0e0dbedf7",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "ed7491b9b75922a85bd602459273d1d1"
+        },
+        "text": "To find the one that's best for your needs",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "aa0ce5aba1bff1816a51026530d1e804",
+        "metadata": {
+            "emphasized_text_contents": [
+                "\u25ba"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "ed7491b9b75922a85bd602459273d1d1"
+        },
+        "text": "\u25ba: Jump straight to\r\nthe",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "fea2635c28225419fda773fa1bbee3e3",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Pass\r\nComparer"
+            ],
+            "link_urls": [
+                "compare-paris-passes.htm#Compare"
+            ],
+            "page_number": 1
+        },
+        "text": "Pass\r\nComparer",
+        "type": "Title"
+    },
+    {
+        "element_id": "6ed3766de16a66755f496031c7f39996",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "fea2635c28225419fda773fa1bbee3e3"
+        },
+        "text": "Visitors who take a full pass including travel can\r\nalso just walk on to buses and\r\nmetros, saving even more time.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c105b10fb2c65da7961497363e54df19",
+        "metadata": {
+            "category_depth": 2,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "fea2635c28225419fda773fa1bbee3e3"
+        },
+        "text": "You\r\nwill not\r\nneed a pass if...\r\nYou have all the time in the world while visiting\r\nParis. If you're not pressed for time while in Paris, or don't want to\r\nvisit a lot of monuments, attractions and museums in a short space of\r\ntime, there's no point in buying a pass unless you still want to avoid\r\nqueuing for tickets at the main museums or monuments.",
+        "type": "Title"
+    },
+    {
+        "element_id": "ccb152b7f612d3c2e32dd473c7f99c84",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "c105b10fb2c65da7961497363e54df19"
+        },
+        "text": "If you plan to visit just a couple of attractions\r\nor museums in a day, or want to spend a whole day in the Louvre or\r\ntaking a trip out to Versailles, for example, it will be a lot\r\ncheaper to buy tickets individually. You can buy\u00a0print@home\r\ne-tickets on the official sites for the",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1f30bdef1b449f3a547ff94021c4ed47",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Louvre"
+            ],
+            "link_urls": [
+                "https://www.ticketlouvre.fr/louvre/b2c/index.cfm/calendar/eventCode/MusWeb"
+            ],
+            "page_number": 1
+        },
+        "text": "Louvre\r\nor the",
+        "type": "Title"
+    },
+    {
+        "element_id": "b75feb986962c0c98f58ca7270648dc7",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Mus\u00e9e\r\nd'Orsay"
+            ],
+            "link_urls": [
+                "https://musee-orsay.fnacspectacles.com/?_lang=en"
+            ],
+            "page_number": 1,
+            "parent_id": "1f30bdef1b449f3a547ff94021c4ed47"
+        },
+        "text": "Mus\u00e9e\r\nd'Orsay : to visit Versailles, you can buy a",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "03285d215274c6142d4f415df3ebff6f",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "half-day\r\ncoach tour"
+            ],
+            "link_urls": [
+                "https://www.kqzyfj.com/2o115r09608OSPSTRYSOQQVPTRPPOQTTUUPSXVSPPP"
+            ],
+            "page_number": 1,
+            "parent_id": "1f30bdef1b449f3a547ff94021c4ed47"
+        },
+        "text": "half-day\r\ncoach tour from Paris City Vision, or make your own way to\r\nVersailles by RER train.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e336ccb09f7fd4d8b489125807bc7720",
+        "metadata": {
+            "category_depth": 3,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "1f30bdef1b449f3a547ff94021c4ed47"
+        },
+        "text": "Ticket queues\r\nand security queues\r\nEven if you have a pass, you may need to queue to get past security...\r\nor just to show the pass. But you won't need to waste time standing in\r\na line to buy a\r\nticket for each visit you make . If you have a combined transport\r\nand attractions pass, you won't have the hassle of needing to buy a\r\nticket each\r\ntime you take public transport.",
+        "type": "Title"
+    },
+    {
+        "element_id": "a0f9cc8a038eb5324c7dbf17284d711b",
+        "metadata": {
+            "category_depth": 2,
+            "emphasized_text_contents": [
+                "2024"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "1f30bdef1b449f3a547ff94021c4ed47"
+        },
+        "text": "Compare the main \u00a0different Paris Passes:\r\n\u00a0updated 2024 prices",
+        "type": "Title"
+    },
+    {
+        "element_id": "d7675f040081819554c7b2d06235f37f",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "Paris\r\nCity\r\nPass",
+                "Recommended\r\nby About-France.com"
+            ],
+            "emphasized_text_tags": [
+                "span",
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Check\r\nout or buy"
+            ],
+            "link_urls": [
+                "http://www.kqzyfj.com/click-3034293-13174079?sid=paris"
+            ],
+            "page_number": 1,
+            "parent_id": "a0f9cc8a038eb5324c7dbf17284d711b"
+        },
+        "text": "Paris\r\nCity\r\nPass\r\n: Recommended\r\nby About-France.com The cheapest and best value of\r\nthe\u00a0all-in-one pass:\r\nincludes museums (Louvre, Orsay etc.) ,\u00a0travel and\r\nsightseeing. Adult passes start at 109.90 \u20ac for two days. Check\r\nout or buy",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "55d73800c42095f22569303d0ced347c",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "Go City\r\nParis inclusive"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Check\r\nout or buy ."
+            ],
+            "link_urls": [
+                "https://prf.hn/l/9mJazz1"
+            ],
+            "page_number": 1,
+            "parent_id": "a0f9cc8a038eb5324c7dbf17284d711b"
+        },
+        "text": "Go City\r\nParis inclusive\r\n: \u00a0 Check\r\nout or buy . \u00a0More attractions to choose from, but\r\nmost of the additional ones are less known and others are outside Paris",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "a81596e191ad9015b580341bf0d640f3",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "Go\r\nCity Paris explorer:"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "More\r\ninfo here"
+            ],
+            "link_urls": [
+                "https://prf.hn/l/eYNoJ2Y"
+            ],
+            "page_number": 1,
+            "parent_id": "a0f9cc8a038eb5324c7dbf17284d711b"
+        },
+        "text": "Go\r\nCity Paris explorer:\u00a0\r\nDoes not include \u00a0public transport \u00a0Provides access\r\nto between 2 and 7 attractions only; includes a Disneyland\r\noption\u00a0 More\r\ninfo here",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "3527c99c4c2bc8c81f783e9c0fd089c0",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "Paris\r\nPass'Lib."
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "a0f9cc8a038eb5324c7dbf17284d711b"
+        },
+        "text": "Paris\r\nPass'Lib. Access to between 3 and 6 attractions only, to\r\nbe chosen from a list. Four tarifs with different lists.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "b94280678508bdb64b5533823e2e07fe",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "Paris\r\nvisite:",
+                "Travel only"
+            ],
+            "emphasized_text_tags": [
+                "span",
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "More\r\ninfo here"
+            ],
+            "link_urls": [
+                "https://www.ratp.fr/en/titres-et-tarifs/paris-visite-travel-pass"
+            ],
+            "page_number": 1,
+            "parent_id": "a0f9cc8a038eb5324c7dbf17284d711b"
+        },
+        "text": "Paris\r\nvisite: Travel only -\r\njust a Paris public transport pass.\r\n2 day adult pass zones 1-3: 19.50 \u20ac\u00a0 More\r\ninfo here",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "97c223416d2b2861c30f2a30fda0bb7c",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "Paris\r\nMuseum pass"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "More\r\ninfo here"
+            ],
+            "link_urls": [
+                "https://booking.parisinfo.com/il4-offer_i148-paris-museum-pass.aspx"
+            ],
+            "page_number": 1,
+            "parent_id": "a0f9cc8a038eb5324c7dbf17284d711b"
+        },
+        "text": "Paris\r\nMuseum pass : Museums only : just gives entry into the\r\nmain museums\r\n(Louvre, Orsay etc.) 2 day pass 52 \u20ac . More\r\ninfo here",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "92200f60aab6bc5a3a4ad6123820e6c5",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "a0f9cc8a038eb5324c7dbf17284d711b",
+            "text_as_html": "<table><tr><td><br/></td><td>What\r<br/>is included..</td><td><br/></td><td>Go\r<br/>City\u00a0 pass</td><td><br/></td><td>Paris\r<br/>City Pass</td><td><br/>Best value</td><td><br/></td><td>Go\r<br/>City explorer pass</td><td><br/></td><td><br/></td><td>Paris\r<br/>Pass&#x27;lib</td><td><br/></td></tr><tr><td><br/></td><td>Website</td><td><br/></td><td>Go\r<br/>City Paris</td><td>or</td><td>\u7545\u6e38\u5305</td><td></td><td><br/></td><td>Paris\r<br/>City Pass</td><td><br/>from Turbopass</td><td><br/></td><td>Go City Paris explorer</td><td><br/></td><td>Museum Pass</td><td>now\r<br/>known as</td><td>Paris Pass-lib Culture</td><td><br/></td></tr><tr><td><br/></td><td>Number of attractions</td><td>included\r<br/>(approximately)</td><td><br/></td><td>90</td><td></td><td>attractions</td><td></td><td><br/></td><td>All\r<br/>passes</td><td>: over</td><td>60</td><td></td><td><br/></td><td><br/></td><td>From</td><td>3</td><td>to</td><td>7</td><td><br/></td><td><br/></td><td>3\r<br/>or 5 from a choice</td><td><br/>of 17 or 18</td><td><br/></td></tr><tr><td><br/></td><td>Transport\r<br/>(= metro,\r<br/>city buses)</td><td><br/></td><td>NO</td><td><br/></td><td>NO</td><td><br/></td><td>NO</td><td><br/></td><td>NO</td><td><br/></td></tr><tr><td><br/></td><td>Main\r<br/>museums and attractions</td><td><br/></td><td>Yes</td><td><br/></td><td>Yes</td><td><br/></td><td>Options</td><td><br/></td><td>Yes</td><td><br/></td></tr><tr><td><br/></td><td>Eiffel\r<br/>Tower</td><td><br/></td><td>To second floor on foot (674 stairs). Reservations\r<br/>-\u00a0 subject to availability</td><td><br/></td><td>Option - Elevator to second floor</td><td><br/></td><td>Option - Elevator to second floor Reservations required\r<br/>-\u00a0 subject to availability</td><td><br/></td><td>To second floor \u00a0- included with 5 attraction\r<br/>card</td><td><br/></td></tr><tr><td><br/></td><td>Seine\r<br/>river cruise</td><td><br/></td><td>Yes</td><td><br/></td><td>Yes</td><td><br/></td><td>Option</td><td><br/></td><td>No</td><td><br/></td></tr><tr><td><br/></td><td>Hop-on\r<br/>hop-off tour bus</td><td><br/></td><td>Yes</td><td><br/></td><td>Yes</td><td><br/></td><td>Option</td><td><br/></td><td>No</td><td><br/></td></tr><tr><td><br/></td><td>Monet\r<br/>museum</td><td><br/></td><td>No</td><td><br/></td><td>No</td><td><br/></td><td>No</td><td><br/></td><td>No</td><td><br/></td></tr><tr><td><br/></td><td>Prices</td><td><br/>2 Days</td><td><br/></td><td>Adult 18+\r<br/>: \u00a0144 \u20ac</td><td><br/>Child 2 - 17 : 69 \u20ac</td><td><br/></td><td>Adult\r<br/>: \u00a0139.90 \u20ac</td><td><br/>Youth 12-17: \u00a059.90 \u20ac</td><td><br/>Child 4-11 : 29.90 \u20ac</td><td><br/></td><td>Passes\r<br/>valid 60 days</td><td><br/></td><td><br/>Adult rates:</td><td><br/>From 104 \u20ac for three attractions, to 269 \u20ac for 7 attractions</td><td><br/>Child rates (up to 17)</td><td><br/>From 89 \u20ac for three attractions, to \u00a0249 \u20ac for 7 attractions.</td><td><br/>Includes</td><td>Disneyland</td><td><br/></td><td>Passes\r<br/>valid for the year</td><td><br/></td><td><br/>All ages.</td><td><br/>45 \u20ac for three attractions</td><td><br/>75 \u20ac \u00a0for five attractions</td><td><br/></td></tr><tr><td><br/></td><td>Prices</td><td><br/>3 Days</td><td><br/></td><td>Adult\r<br/>18+\r<br/>: \u00a0174 \u20ac</td><td><br/>Child 2 - 17 : 679 \u20ac</td><td><br/></td><td>Adult\r<br/>: \u00a0169.90 \u20ac</td><td><br/>Youth : \u00a069.90 \u20ac</td><td><br/>Child : 39.90 \u20ac</td><td><br/></td></tr><tr><td><br/></td><td>Also\r<br/></td><td><br/>available</td><td><br/></td><td>4\r<br/>days (Adult 204 \u20ac)</td><td><br/>6 days</td><td><br/></td><td>4\r<br/>days (Adult 189.90 \u20ac)</td><td><br/>5 days</td><td><br/>6 days\u00a0(Adult 229.90 \u20ac)</td><td><br/></td></tr><tr><td><br/></td><td>Info\r<br/></td><td><br/>and</td><td><br/>buy</td><td><br/></td><td>Go\r<br/>City Paris</td><td><br/></td><td><br/>Buy online in advance</td><td><br/></td><td><br/></td><td>Paris\r<br/>City Pass</td><td><br/></td><td>5% s</td><td>pecial\r<br/>discount when you book from About-France.com. Code</td><td>Aboutfrance</td><td><br/></td><td><br/></td><td>Go\r<br/>City Paris explorer</td><td><br/></td><td><br/></td><td><br/></td><td>Paris Pass-lib Culture</td><td><br/>Buy in advance or at the first museum you visit, or at Paris visitor\r<br/>centres</td><td><br/></td></tr></table>"
+        },
+        "text": "What\r\nis included.. \n Go\r\nCity\u00a0 pass \n Paris\r\nCity Pass \r\nBest value  \n Go\r\nCity explorer pass \n \n Paris\r\nPass'lib \n \n Website \n Go\r\nCity Paris  \u00a0or\u00a0\u00a0 \u7545\u6e38\u5305   \n Paris\r\nCity Pass \r\nfrom Turbopass \n Go City Paris explorer \n Museum Pass  now\r\nknown as  Paris Pass-lib Culture \n \n Number of attractions  included\r\n(approximately) \n 90   attractions \u00a0 \n All\r\npasses : over  60   \n \n From  3  to  7  \n \n 3\r\nor 5 from a choice \r\nof 17 or 18 \n \n Transport\r\n(= metro,\r\ncity buses) \n NO \n NO \n NO \n NO \n \n Main\r\nmuseums and attractions \n \u00a0Yes \n Yes \n Options \n Yes \n \n Eiffel\r\nTower\u00a0 \n To second floor on foot (674 stairs). Reservations\r\n-\u00a0 subject to availability \n Option - Elevator to second floor  \n Option - Elevator to second floor Reservations required\r\n-\u00a0 subject to availability \n To second floor \u00a0- included with 5 attraction\r\ncard \n \n Seine\r\nriver cruise\u00a0 \n Yes \n Yes \n Option \n No \n \n Hop-on\r\nhop-off tour bus \n Yes \n Yes \n Option \n No \n \n Monet\r\nmuseum \n No \n No \n No \n No \n \n Prices\u00a0 \r\n2 Days \n Adult 18+\r\n: \u00a0144 \u20ac \u00a0 \r\nChild 2 - 17 : 69 \u20ac \n Adult\r\n: \u00a0139.90 \u20ac \u00a0 \r\nYouth 12-17: \u00a059.90 \u20ac \r\nChild 4-11 : 29.90 \u20ac \n Passes\r\nvalid 60 days \n \r\nAdult rates: \r\nFrom 104 \u20ac for three attractions, to 269 \u20ac for 7 attractions \r\nChild rates (up to 17) \r\nFrom 89 \u20ac for three attractions, to \u00a0249 \u20ac for 7 attractions. \r\nIncludes  Disneyland \n Passes\r\nvalid for the year \n \r\nAll ages. \r\n45 \u20ac for three attractions \r\n75 \u20ac \u00a0for five attractions \n \n Prices \r\n3 Days \n Adult\r\n18+\r\n: \u00a0174 \u20ac \u00a0 \r\nChild 2 - 17 : 679 \u20ac \n Adult\r\n: \u00a0169.90 \u20ac \u00a0 \r\nYouth : \u00a069.90 \u20ac \r\nChild : 39.90 \u20ac \n \n Also\r\n \r\navailable \n 4\r\ndays (Adult 204 \u20ac) \r\n6 days \n 4\r\ndays (Adult 189.90 \u20ac)  \r\n5 days \r\n6 days\u00a0(Adult 229.90 \u20ac) \n \n Info\r\n \r\nand  \r\nbuy \n Go\r\nCity Paris \n \r\nBuy online in advance \n \n Paris\r\nCity Pass \n 5% s pecial\r\ndiscount when you book from About-France.com. Code  Aboutfrance \n \n Go\r\nCity Paris explorer \n \n \n Paris Pass-lib Culture \r\nBuy in advance or at the first museum you visit, or at Paris visitor\r\ncentres",
+        "type": "Table"
+    },
+    {
+        "element_id": "7dacf6d0c8730c412a91a1209a6d6b0d",
+        "metadata": {
+            "emphasized_text_contents": [
+                "Note"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "a0f9cc8a038eb5324c7dbf17284d711b"
+        },
+        "text": "Note: Most\r\npasses are offered for periods of 2 days, 3 days, 4 days,\r\nsometimes 5 days, and 6 days. The Paris Pass'lib is also\r\navailable for just one day, this \"mini\" version just\r\nincludes the\u00a0 hop-on tour bus and a Seine river cruise; but at\r\n40 \u20ac for one adult, it is 20% more expensive than the Combo",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1f0acf93567429076f4f8d731cddddd7",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "bus\r\ntour + Seine cruise"
+            ],
+            "link_urls": [
+                "http://www.anrdoezrs.net/links/3034293/type/dlg/sid/compare/https://www.pariscityvision.com/en/paris-city-tour-cruise"
+            ],
+            "page_number": 1,
+            "parent_id": "a0f9cc8a038eb5324c7dbf17284d711b"
+        },
+        "text": "bus\r\ntour + Seine cruise offered by Paris City Vision",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0f2b3ff15c20767f040606b2b9d6290f",
+        "metadata": {
+            "category_depth": 0,
+            "emphasized_text_contents": [
+                "IMPORTANT: Eiffel Tower :"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1
+        },
+        "text": "IMPORTANT: Eiffel Tower :",
+        "type": "Title"
+    },
+    {
+        "element_id": "a4bf3488ed66ed18c377207e27f6df4c",
+        "metadata": {
+            "emphasized_text_contents": [
+                "None"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "0f2b3ff15c20767f040606b2b9d6290f"
+        },
+        "text": "None\r\nof the Paris passes include a lift/elevator ride up the",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "176cbc7bb0f8192bb6abf5398aed3858",
+        "metadata": {
+            "emphasized_text_contents": [
+                "Eiffel Tower."
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "0f2b3ff15c20767f040606b2b9d6290f"
+        },
+        "text": "Eiffel Tower. (One\r\npass offers a second level Eiffel Tower ticket \u00a0on\r\nfoot....\u00a0\r\nbut a second level ticket is only \u20ac 10.50 on foot, or \u20ac16.70 by\r\nlift/elevator on the official Eiffel\r\nTower site !) Access to the top of the tower must always\r\nbe purchased separately, or as part of \u00a0certain specific\r\ntours\u00a0. It cannot be bought once you reach the second level.\r\nBuy\r\nyour",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8db1e3d5f5f94933da5b3ab8cd18e6b3",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Paris\r\nCity Pass"
+            ],
+            "link_urls": [
+                "http://www.kqzyfj.com/click-3034293-13174079?sid=paris"
+            ],
+            "page_number": 1
+        },
+        "text": "Paris\r\nCity Pass or your",
+        "type": "Title"
+    },
+    {
+        "element_id": "cd677be6e732030281271ecbf4642938",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Go city Paris inclusive"
+            ],
+            "link_urls": [
+                "https://prf.hn/l/9mJazz1"
+            ],
+            "page_number": 1,
+            "parent_id": "8db1e3d5f5f94933da5b3ab8cd18e6b3"
+        },
+        "text": "Go city Paris inclusive\r\npass online, then buy\u00a0Eiffel tower ticket\r\nonline from the official site. See",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "cb61f3273414eb5131d8f5e44f35beb1",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Eiffel\r\nTower"
+            ],
+            "link_urls": [
+                "monuments/eiffel-tower.htm"
+            ],
+            "page_number": 1
+        },
+        "text": "Eiffel\r\nTower\r\ninformation.",
+        "type": "Title"
+    },
+    {
+        "element_id": "2f06bb8dba23f1b69b998dd12302fcc8",
+        "metadata": {
+            "category_depth": 3,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "cb61f3273414eb5131d8f5e44f35beb1"
+        },
+        "text": "The passes in more detail....",
+        "type": "Title"
+    },
+    {
+        "element_id": "d16fb093fb97e89408fb14c6254d2f06",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "These\r\ninclude\u00a0attractions and Seine\r\ncruise"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "The Go City\u00a0Pass",
+                "Paris\r\nCity Pass",
+                null,
+                null
+            ],
+            "link_urls": [
+                "https://prf.hn/l/9mJazz1",
+                "http://www.kqzyfj.com/click-3034293-13174079?sid=free",
+                "tourism/paris-hotel-map.htm",
+                "tourism/paris-hotel-map.htm"
+            ],
+            "page_number": 1,
+            "parent_id": "2f06bb8dba23f1b69b998dd12302fcc8"
+        },
+        "text": "The Go City\u00a0Pass\r\n, and the Paris\r\nCity Pass\u00a0\nThese\r\ninclude\u00a0attractions and Seine\r\ncruise\n\n\r\nClick for selected \r\nParis hotels map\r\nThese are both \u00a0general limited-time passes for museums and\r\nattractions.\r\nAll these passes include a\r\nSeine river cruise,\r\na free Paris guide\r\nbook,\u00a0\r\nand\r\nlots more - but no Eiffel Tower lifts / elevators. These may be\r\npurchased as optional extras. For key locations, users should book\r\ntheir time slots in advance.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "c9e832105bb081d04be608e53de2ef65",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "avoid\r\nthe queues",
+                "several\r\nthat are well outside Paris"
+            ],
+            "emphasized_text_tags": [
+                "b",
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "2f06bb8dba23f1b69b998dd12302fcc8"
+        },
+        "text": "Buy\r\nyour pass in advance, and avoid\r\nthe queues to get in.\u00a0\r\nIt\r\nis pretty well impossible to visit everything covered by these two\r\ninclusive passes, even with a five or six day pass, as the list of\r\nattractions covered includes several\r\nthat are well outside Paris. And\r\nthe passes do not include caf\u00e9s and restuarants where you\r\nwill want to\r\nstop off and relax",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "c1c240fef042964f3cabcc1b73e5287a",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "Paris\r\nPass'Lib Culture ."
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "2f06bb8dba23f1b69b998dd12302fcc8"
+        },
+        "text": "Paris\r\nPass'Lib Culture .\r\nthis has replaced the \"museum pass\". This pass keeps changing. Now it\r\ncomes in 2 versions, offering\r\nentry to between 3 and 6 attractions out of a list. With the cheapest\r\nversion (35\u20ac), choose 3 activities out of a list of 17. With the more\r\nexpensive version (75\u20ac) choose five out of a list of 18 attractions -\r\nthe difference being the Eiffel Tower. A Pass'Lib is valid a year.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "d17bedead4f60045ced6cdb44a7c715e",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "Disneyland",
+                "Take care:",
+                "can"
+            ],
+            "emphasized_text_tags": [
+                "span",
+                "span",
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Go City Paris explorer",
+                "Disney",
+                "Eiffel\r\nTower"
+            ],
+            "link_urls": [
+                "https://prf.hn/l/eYNoJ2Y",
+                "https://clkuk.tradedoubler.com/click?p=8854&a=1460867&g=21742390",
+                "https://about-france.com/monuments/eiffel-tower.htm"
+            ],
+            "page_number": 1,
+            "parent_id": "2f06bb8dba23f1b69b998dd12302fcc8"
+        },
+        "text": "Go City Paris explorer\r\n\u00a0This may be\u00a0 a good idea if you want to include a\r\nday at Disneyland\r\nParis, since the 104\u20ac cost of a 3-attraction pass is the same as\r\nthe indicated \"normal\" adult day-ticket to Disneyland alone. (For the\r\nrecord\u00a0fixed-date adult day passes for Disneyland Paris cost\r\nbetween 81\u20ac and 124\u20ac on the Disney\r\nsite depending on date). Otherwise, it is mainly useful for people\r\nspending up to two months in Paris,\r\nwho\r\nknow that they will want to visit certain attractions.\u00a0 Passes\r\nare valid\r\nfor between 2 and 7 attractions only. \nTake care:\u00a0\r\nthe choice of attractions is capped by a \"purse value\" which\u00a0\r\nis\r\nthe maximum amount you can use based on the standard gate price for\r\neach attraction. For example, with a 3-choice adult Explorer\r\ncosting\u00a0119\r\n\u20ac,\u00a0 you can visit three attractions\u00a0the sum of whose\r\nnormal ticket prices is not greater than \u20ac205... which could include\r\nboth Disneyland and Parc Ast\u00e9rix.\r\nOne advantage of the Paris Explorer pass is that it can\r\ninclude the second floor (not the top) of the Eiffel Tower. However, be\r\nwarned; the date and time of the Eiffel tower visit has to be booked in\r\n\u00a0advance, and the claimed\u00a042\u20ac value of the\r\ntour to\r\nthe second\r\nflooor of the Eiffel Tower can be misleading. The actual cost of access\r\nto the second floor of the Eiffel tower is not 42\u20ac but just\r\n\u00a016.70\r\n\u20ac if you take the elevator (lift), and just 10.50 \u20ac\r\nif you walk up (Prices as from\u00a0 2023)\u00a0 (see\r\nEiffel\r\nTower )",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "49f333acd403a0a95adec48090ccdd03",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "[Public transport only ]",
+                "visitor's\r\npass",
+                "not necessarily the\r\ncase",
+                "DO NOT BUY",
+                "DO NOT",
+                "Paris\r\nVisite",
+                "Prices",
+                "Jan\r\n2023)",
+                "carnet",
+                "Take care... \u00a0Where\r\nto buy Paris visite pass ?",
+                "Take care...",
+                "when\r\nyou reach France",
+                "on line in advance",
+                "DO\r\nNOT"
+            ],
+            "emphasized_text_tags": [
+                "span",
+                "b",
+                "span",
+                "span",
+                "span",
+                "b",
+                "span",
+                "span",
+                "span",
+                "span",
+                "span",
+                "span",
+                "b",
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "official\r\nParis visitor website. ",
+                null,
+                "here"
+            ],
+            "link_urls": [
+                "https://en.parisinfo.com/express-booking/products/paris-transport-en",
+                "https://en.parisinfo.com/express-booking/products/paris-transport-en",
+                "https://en.parisinfo.com/express-booking/products/paris-transport-en"
+            ],
+            "page_number": 1,
+            "parent_id": "2f06bb8dba23f1b69b998dd12302fcc8"
+        },
+        "text": "Paris visite:\u00a0\u00a0[Public transport only ]\r\nVisitors who plan to use lots of\r\npublic transport in Paris but don't want to visit lots of museums and\r\nsites\u00a0 may find that the best or cheapest solution\r\nis to take a visitor's\r\npass, \"Paris\r\nVisite\", though this is not necessarily the\r\ncase\r\n(see below).\r\nThe Paris Visite passes are available on a 1, 2, 3 or 5 day basis, and\r\ncover all types of official public transport in the central area or\r\ncentral area and suburbs, depending on the option chosen.\r\n\u00a0 DO NOT BUY\r\nA\r\nPARIS VISITE PUBLIC TRANSPORT PASS if you have bought, or plan to buy,\r\na\u00a0Paris City Pass for visiting attractions and museums.\r\nPublic transport is\r\nalready included in the Paris City Pass. \u00a0See above\u00a0\r\n\u00a0\r\n\u00a0Paris\r\nVisite - gives unlimited use of the metro / RER / bus\r\nnetwork for a given numer of days. Prices\r\nstart at \u20ac14.90 for a one day adult pass covering zones 1 to 3\r\nor 24.30\r\n\u20acuros for 2 days\r\n(As of Jan\r\n2023).\r\nFull details in English, plus downloadable Paris\r\nMetro\r\nand\r\npublic transport maps from the official\r\nParis visitor website. \u00a0However,\r\nit's worth noting that a two-day Paris visite pass is only worth it if\r\nyou plan to do a lot of trips on the metro or buses in a day.\r\nDownloading a\r\npack of ten individual journey tickets - a \"carnet\"\r\n- (valid until they are used) from\r\nthe machine at any metro station will cost you \u20ac 17.90,\r\nwhereas buying\r\na two-day Paris\r\nvisite card will cost you \u00a0\u20ac24.30 (see below) . You buy packs\r\nof\r\ntickets from the machines in all stations or, when there is one, from a\r\nticket booth. Paper tickets are no longer sold, though existing paper\r\ntickets can be used until 2025. \r\n\u00a0 \u00a0To download tickets or a carnet,\u00a0\r\nvisitors\u00a0need first to download to their phone\u00a0a\r\n\"Navigo Easy\"\r\npass, which costs 2 \u20ac, onto which they can then load individual\r\ntickets, or more sensibly a carnet of ten trips... plus any suburban\r\ntravel tickets they may need. Navigo Easy cards are available from all\r\nmachines and also in some shops. Each traveller needs his or her own\r\nNavigo Easy card... including kids. So four people travelling together\r\nneed four cards, as each will need a card to get through the turnstiles.\n\nTake care... \u00a0Where\r\nto buy Paris visite pass ?\r\nThe simplest is to buy it when\r\nyou reach France,\r\nfrom any Paris area train / metro station, airport, information point\r\nor tourist office. Buy it at the ticket office, not from a ticket\r\nmachine\r\n(unless renewing). If you want to buy it on line in advance,\r\nonly do so here (official site):\r\nyou'll get the tickets at the official price, but you will pay extra\r\n(at least 9 Euros) to have them mailed to you. DO\r\nNOT\r\npurchase in advance from other online websites that sell these tickets\r\nwell above the real cost, and charge excessively for delivery too. You\r\ncould end up paying double the cost......",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "50d023998781deea97b551d9932646f4",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "Paris\r\nMuseum pass",
+                "[Museums\r\nonly ]",
+                "Prices",
+                "purchased\r\non the day at\r\nthe first museum",
+                "on the day at\r\nthe first museum"
+            ],
+            "emphasized_text_tags": [
+                "b",
+                "span",
+                "span",
+                "b",
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "2f06bb8dba23f1b69b998dd12302fcc8"
+        },
+        "text": "Paris\r\nMuseum pass \u00a0[Museums\r\nonly ]\r\n-\r\ngiving unlimited admission to some 60\r\nmonuments / museums in and around Paris, excluding the Eiffel Tower. Prices\r\nstart at 52\r\n\u20acuros for two days or 66\u20ac for four days.\r\n\u00a0This pass - best\r\npurchased\r\non the day at\r\nthe first museum you visit -\u00a0 does\r\nnot\r\ninclude any transport, so things like Seine river cruises, metro\r\ntickets and sightseeing tours must be purchased separately. See below.\r\nThe Paris Museum Pass is included in the Go City inclusive pass and the\r\nParis City\r\nPass (see\r\nabove).",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "7903ee3e869ec4ee817c65b4ef3e2e23",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "Choose\r\ntickets \u00e0 la carte :"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "tourist attractions page"
+            ],
+            "link_urls": [
+                "paris-tourist-attractions.htm"
+            ],
+            "page_number": 1,
+            "parent_id": "2f06bb8dba23f1b69b998dd12302fcc8"
+        },
+        "text": "Choose\r\ntickets \u00e0 la carte : \u00a0\r\nJust buy tickets\r\nfor what\r\nyou have time to see. \u00a0Check out sightseeing bus tickets and\r\nriver-bus tickets below; check out prices for individual monuments on\r\ntheir websites, which are listed at the foot of our Paris tourist attractions page.\r\n\u00a0Tickets for many attractions can now be bought on the\r\nattraction's own website, and with an online ticket (print your own or\r\non your phone) you don't need to stand in a queue to buy on the spot.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "eca8b24c560e0cb9478fd353639cd1ae",
+        "metadata": {
+            "category_depth": 0,
+            "emphasized_text_contents": [
+                "Other\r\npasses:"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1
+        },
+        "text": "Other\r\npasses:",
+        "type": "Title"
+    },
+    {
+        "element_id": "872fc29f360a582fb767ebe545932c88",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "Hop-on\r\nhop-off sightseeing bus pass"
+            ],
+            "emphasized_text_tags": [
+                "b"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Open-Tour\r\n/Cityrama"
+            ],
+            "link_urls": [
+                "https://bit.do/hop-on"
+            ],
+            "page_number": 1,
+            "parent_id": "eca8b24c560e0cb9478fd353639cd1ae"
+        },
+        "text": "Hop-on\r\nhop-off sightseeing bus pass\r\n\u00a0The Open-Tour\r\n/Cityrama\r\nservice, has a choice of hop-on\r\nhop-off passes from 39 \u20ac for a one-day pass, and covers four\r\ndifferent routes\r\n(plus\r\noptional Batobus service on the Seine). Alternatively Big\r\nBus Tours (formerly les Cars Rouges) run open-top\r\nguided tour\r\nbuses linking nine major\r\nsites; a two-day\r\npass costs\u00a0 45\u20ac.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "a9096944a7b077831c944e070bbce244",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "The\r\n\"Batobus\" and travel on the Seine."
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Batobus"
+            ],
+            "link_urls": [
+                "http://www.batobus.com/"
+            ],
+            "page_number": 1,
+            "parent_id": "eca8b24c560e0cb9478fd353639cd1ae"
+        },
+        "text": "The\r\n\"Batobus\" and travel on the Seine.\r\nThe Batobus\r\nare river buses that go up and down the Seine from the Eiffel tower to\r\nthe quai de Montebello (near Notre Dame). There are 8 stops in all. An\r\nadult\r\nday pass at the start of 2022 costs 19 \u20ac, and a 2-day pass\r\n(consecutive days) costs 21\r\n\u20ac per adult.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "e75516033cd4c6ea74a104810c3e13e9",
+        "metadata": {
+            "category_depth": 2,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "eca8b24c560e0cb9478fd353639cd1ae"
+        },
+        "text": "WHICH PASS BEST SUITS\r\nYOUR NEEDS?",
+        "type": "Title"
+    },
+    {
+        "element_id": "fdd99b4a64d3b052d3a993ce5d80acef",
+        "metadata": {
+            "emphasized_text_contents": [
+                "\u25ba"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "e75516033cd4c6ea74a104810c3e13e9"
+        },
+        "text": "\u25ba\r\n\u00a0Choosing which\r\npass is best for you, or whether you actually need a pass at all, will\r\ndepend untimately on what sights you want to see, what you want to do\r\nin Paris, and how long you are staying. \u00a0Paris has litterally\r\nhundreds of different tourist sights (see",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d4e6e034d9ff46476939499c77579a50",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                " Paris tourist\r\nattractions"
+            ],
+            "link_urls": [
+                "paris-tourist-attractions.htm"
+            ],
+            "page_number": 1,
+            "parent_id": "e75516033cd4c6ea74a104810c3e13e9"
+        },
+        "text": "Paris tourist\r\nattractions),\r\nincluding museums, monuments, views, places to walk, tours, concert\r\nhalls, cabarets, restaurants and caf\u00e9s. No-one has time to\r\nsee\r\neverything. In fact, most tourists, in the space of a short trip to\r\nParis, can do no more than scratch the surface.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "67d8f4bf516e1b46de293e78ae3d36d1",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "e75516033cd4c6ea74a104810c3e13e9"
+        },
+        "text": "So before choosing a pass, or no pass, ask yourself the\r\nfollowing questions.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "37bcfa61e0657cd734a0a672f4271897",
+        "metadata": {
+            "category_depth": 1,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Paris\r\nCity Pass"
+            ],
+            "link_urls": [
+                "http://www.kqzyfj.com/click-3034293-13174079?sid=paris"
+            ],
+            "page_number": 1,
+            "parent_id": "e75516033cd4c6ea74a104810c3e13e9"
+        },
+        "text": "Do\r\nyou want to take in at least three paid entry attractions a day\r\n(between monuments, museums, river cruise...) \u00a0. If so,\r\nthe\u00a0Paris\r\nCity Pass is probably your best value option,",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "f51297ad1bf0344b4305d02ae07c48f9",
+        "metadata": {
+            "category_depth": 1,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Museum Pass"
+            ],
+            "link_urls": [
+                "https://booking.parisinfo.com/il4-offer_i148-paris-museum-pass.aspx"
+            ],
+            "page_number": 1,
+            "parent_id": "e75516033cd4c6ea74a104810c3e13e9"
+        },
+        "text": "Do you want primarily to visit Paris's world-class museums,\r\nmore than other attractions? If so, the\u00a0Museum Pass may be your best\r\nsolution.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "1a4392295b51a4bcf5bd1d9abfa3a3cb",
+        "metadata": {
+            "category_depth": 1,
+            "emphasized_text_contents": [
+                "you\r\ndon't\r\nneed a pass at all,"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "free attractions "
+            ],
+            "link_urls": [
+                "paris-free.htm"
+            ],
+            "page_number": 1,
+            "parent_id": "e75516033cd4c6ea74a104810c3e13e9"
+        },
+        "text": "Do\r\nyou want to avoid the big paid-entry sites, with their queues, and\r\nenjoy Paris by visiting smaller museums, taking in Paris's free attractions (including\r\nmuseums),\u00a0soaking in the\u00a0atmosphere of the old\r\nstreets\r\nand\u00a0riverbanks, and enjoying the bars and caf\u00e9s ?\r\nIf so, you\r\ndon't\r\nneed a pass at all, it would be a waste of money. Just\r\npay at the entrance to the paid-entry sites you visit, and enjoy the\r\nothers for free.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "70a2069cd294d23fc64c880dea91f652",
+        "metadata": {
+            "category_depth": 1,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Paris\r\ncity pass",
+                "Paris\r\nVisite "
+            ],
+            "link_urls": [
+                "http://www.kqzyfj.com/click-3034293-13174079?sid=paris",
+                "https://www.ratp.fr/en/titres-et-tarifs/paris-visite-travel-pass"
+            ],
+            "page_number": 1,
+            "parent_id": "e75516033cd4c6ea74a104810c3e13e9"
+        },
+        "text": "Do\r\nyou plan to use the metro or buses several times in a day,\r\nincluding getting to and from your hotel located in central Paris or\r\nthe inner suburbs? If so, the Paris\r\ncity pass will give you free public transport plus entry to\r\ndozens of attractions. Alternatively the Paris\r\nVisite transport pass will just provide you with free travel\r\nin the city for the duration chosen.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "9768ed5bcc1ba3abe9a4b613a1b1badf",
+        "metadata": {
+            "category_depth": 1,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Paris\r\nCity Pass",
+                "Go city Paris inclusive"
+            ],
+            "link_urls": [
+                "http://www.kqzyfj.com/click-3034293-13174079?sid=paris",
+                "https://prf.hn/l/rGR5NBZ"
+            ],
+            "page_number": 1,
+            "parent_id": "e75516033cd4c6ea74a104810c3e13e9"
+        },
+        "text": "Do you want to pack in as much as possible in a short space\r\nof time, including the main sights ? \u00a0If so, the\u00a0Paris\r\nCity Pass is your best value option. If you want a pass\r\nincluding hop-on hop-off buses, the go for the\u00a0Go city Paris inclusive\r\nPass",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "caf9be0486cc4931620f199c7f115bdd",
+        "metadata": {
+            "category_depth": 1,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Go city Paris\r\nexplorer"
+            ],
+            "link_urls": [
+                "https://prf.hn/l/9mJazz1"
+            ],
+            "page_number": 1,
+            "parent_id": "e75516033cd4c6ea74a104810c3e13e9"
+        },
+        "text": "Are\r\nyou spending a few weeks in Paris, during which time you'll visit\r\ndifferent attractionsin your own time, on different days? Then maybe\r\nthe Go city Paris\r\nexplorer pass is best suited to your needs.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "9e3568d2456ee2dae8db37b9e0ef1f22",
+        "metadata": {
+            "category_depth": 0,
+            "emphasized_text_contents": [
+                "About-France.com\r\n\u00a0 Home\r\npage - \u00a0Site search\r\n\u00a0- \u00a0Regions\r\n\u00a0- \u00a0Maps of France"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Home\r\npage",
+                "Site search",
+                "Regions",
+                "Maps of France"
+            ],
+            "link_urls": [
+                "index.htm",
+                "search.htm",
+                "regions.htm",
+                "maps.htm"
+            ],
+            "page_number": 1
+        },
+        "text": "About-France.com\r\n\u00a0 Home\r\npage - \u00a0Site search\r\n\u00a0- \u00a0Regions\r\n\u00a0- \u00a0Maps of France",
+        "type": "Title"
+    },
+    {
+        "element_id": "3677f5db233cec6f49920f4a0d8a9cba",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1
+        },
+        "text": "Copyright\r\nAbout-France.com 2007 - 2024 ",
+        "type": "Title"
+    },
+    {
+        "element_id": "6557739a67283a8de383fc5c0997fbec",
+        "metadata": {
+            "category_depth": 2,
+            "emphasized_text_contents": [
+                "2024"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "3677f5db233cec6f49920f4a0d8a9cba"
+        },
+        "text": "2024",
+        "type": "Title"
+    },
+    {
+        "element_id": "b344d80e24a3679999fa964450b34bc2",
+        "metadata": {
+            "category_depth": 0,
+            "emphasized_text_contents": [
+                "The"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1
+        },
+        "text": "The",
+        "type": "Title"
+    },
+    {
+        "element_id": "4c08af911827c5109f72a7a062a159f2",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "About-France.com"
+            ],
+            "link_urls": [
+                "index.htm"
+            ],
+            "page_number": 1
+        },
+        "text": "About-France.com\r\nguide",
+        "type": "Title"
+    },
+    {
+        "element_id": "123058dfa45cb2195368e030e60486ea",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "4c08af911827c5109f72a7a062a159f2"
+        },
+        "text": "Your\r\nguide to\u00a0France\r\n- its life, its attractions, and how best to enjoy them",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "033a1168e76e8d41208d3b09f3fd4c49",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "4c08af911827c5109f72a7a062a159f2"
+        },
+        "text": "About-France.com helps you make the most out of your trip to Paris and\r\nFrance in general.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "69c7764478648c2a9a0e83c59c9131f8",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "4c08af911827c5109f72a7a062a159f2"
+        },
+        "text": "With over 300 pages packed with information, practical tips,\r\nand insider knowledge, About-France.com helps you discover where to go\r\nin France, when to go, and how to get there. Discover our",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "810e84c8d081fe5fd87c73938dd51ec9",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Paris"
+            ],
+            "link_urls": [
+                "paris.htm"
+            ],
+            "page_number": 1
+        },
+        "text": "Paris pages, our",
+        "type": "Title"
+    },
+    {
+        "element_id": "441dc15c6ad9780ea16707897c64e672",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "regional"
+            ],
+            "link_urls": [
+                "regions.htm"
+            ],
+            "page_number": 1,
+            "parent_id": "810e84c8d081fe5fd87c73938dd51ec9"
+        },
+        "text": "regional guides,",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "ea6ff9e4de9048d09c8beff14af1d4ea",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "city"
+            ],
+            "link_urls": [
+                "cities/index.htm"
+            ],
+            "page_number": 1
+        },
+        "text": "city guides and",
+        "type": "Title"
+    },
+    {
+        "element_id": "01365c7522001dbfa7decf686f24548e",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "themed tourism"
+            ],
+            "link_urls": [
+                "tourism.htm"
+            ],
+            "page_number": 1,
+            "parent_id": "ea6ff9e4de9048d09c8beff14af1d4ea"
+        },
+        "text": "themed tourism\u00a0\r\nguides, covering such topics as coasts and castles, \u00a0villages\r\nand wildlife, scenic railways and prehistoric sites, and much more too.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "533aa5bf58391b7aa9e900fee22e315e",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "ea6ff9e4de9048d09c8beff14af1d4ea"
+        },
+        "text": "An\r\nindependent website, About-France.com is an affiliate partner of\r\ncertain travel service websites, and may receive a small commission on\r\nsales generated from reservations or purchases made on a partner site.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2103e3f26a5b71b0e1a148c1f4f5012b",
+        "metadata": {
+            "emphasized_text_contents": [
+                "Disneyland\r\nParis... just click"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "ea6ff9e4de9048d09c8beff14af1d4ea"
+        },
+        "text": "Disneyland\r\nParis... just click",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7879fa4c339d09549a59c1cb433f9c28",
+        "metadata": {
+            "emphasized_text_contents": [
+                "The\r\nbest value Paris pass is now even\r\nbetter\r\nvalue with the About-France.com special discount\r\n\u00a0...",
+                "even\r\nbetter\r\nvalue"
+            ],
+            "emphasized_text_tags": [
+                "span",
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "ea6ff9e4de9048d09c8beff14af1d4ea"
+        },
+        "text": "The\r\nbest value Paris pass is now even\r\nbetter\r\nvalue with the About-France.com special discount\r\n\u00a0...",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f98000a1313d011e78ac3f8636df027b",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1
+        },
+        "text": "Even\r\nbefore the About-France.com discount, The",
+        "type": "Title"
+    },
+    {
+        "element_id": "f98000a1313d011e78ac3f8636df027b",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1
+        },
+        "text": "Even\r\nbefore the About-France.com discount, The",
+        "type": "Title"
+    },
+    {
+        "element_id": "279e5cee47a82185e6a09ea3bb673999",
+        "metadata": {
+            "emphasized_text_contents": [
+                "Paris City pass"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "f98000a1313d011e78ac3f8636df027b"
+        },
+        "text": "Paris City pass\r\nis the cheapest of the full Paris visitor passes -\r\nup to\u00a0nearly 50% cheaper\r\nfor children. Prices start at just 19,90 Euros for a two day pass for\r\nchildren and 104.90 Euros for a two day adult pass",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f9ff2b367584b4c057fa2d38997ae79f",
+        "metadata": {
+            "category_depth": 0,
+            "emphasized_text_contents": [
+                "Exceptional...."
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1
+        },
+        "text": "Exceptional....",
+        "type": "Title"
+    },
+    {
+        "element_id": "cefde8bbd567065b8639196840392664",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "f9ff2b367584b4c057fa2d38997ae79f"
+        },
+        "text": "Get 5% off all passes by booking direct from About-France.com (click\r\nhere) and use the discount code \"",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "83227d7c6c80e65a5268be37748af2b9",
+        "metadata": {
+            "category_depth": 0,
+            "emphasized_text_contents": [
+                "aboutfrance"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1
+        },
+        "text": "aboutfrance\"",
+        "type": "Title"
+    },
+    {
+        "element_id": "977be1b2ae1f3ef5f760408ac70a9fdb",
+        "metadata": {
+            "category_depth": 2,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 1,
+            "parent_id": "83227d7c6c80e65a5268be37748af2b9"
+        },
+        "text": "In\r\nan emergency\r\nin Paris:",
+        "type": "Title"
+    },
+    {
+        "element_id": "a6c4d9c855779c455d2a92d66d18035d",
+        "metadata": {
+            "category_depth": 0,
+            "emphasized_text_contents": [
+                "24\r\nhr chemist / pharmacies"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "24\r\nhr chemist / pharmacies:",
+        "type": "Title"
+    },
+    {
+        "element_id": "3c484b2082c104b78cfa549e87a1d785",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "a) 84, av des Champs-Elys\u00e9es 75008, tel",
+        "type": "Title"
+    },
+    {
+        "element_id": "101d19a9c84849016174f030d41a2b8d",
+        "metadata": {
+            "emphasized_text_contents": [
+                "0145\r\n62 02 41"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2,
+            "parent_id": "3c484b2082c104b78cfa549e87a1d785"
+        },
+        "text": "0145\r\n62 02 41",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "a59df03ecd93eef4774f31c38de280ab",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "b) 6, place Clichy 75009, tel",
+        "type": "Title"
+    },
+    {
+        "element_id": "12e03e8f88103ba35c5e0937b4c6b14b",
+        "metadata": {
+            "emphasized_text_contents": [
+                "0148\r\n74 65 18"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2,
+            "parent_id": "a59df03ecd93eef4774f31c38de280ab"
+        },
+        "text": "0148\r\n74 65 18 .",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "c69e369e62a37a2f553d2e89f3479d07",
+        "metadata": {
+            "category_depth": 0,
+            "emphasized_text_contents": [
+                "English-speaking\r\npharmacies:"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "English-speaking\r\npharmacies:",
+        "type": "Title"
+    },
+    {
+        "element_id": "fd5d971be84bf8e0148e2c12c5ccf392",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "British Pharmacy",
+        "type": "Title"
+    },
+    {
+        "element_id": "d3d5453f57d31a84e4e73073102e15f4",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2,
+            "parent_id": "fd5d971be84bf8e0148e2c12c5ccf392"
+        },
+        "text": "62, Avenue des Champs-Elys\u00e9es",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "76c9b1468007a19d47ca1c2d4c5787bb",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "75008 Paris",
+        "type": "Title"
+    },
+    {
+        "element_id": "ef2a9be6f9d9ed992e004182550652c6",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2,
+            "parent_id": "76c9b1468007a19d47ca1c2d4c5787bb"
+        },
+        "text": "British-American pharmacy,",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "eada4b6985e48dd83cf87eb2e3ca687b",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "1 rue Auber, 75009",
+        "type": "Title"
+    },
+    {
+        "element_id": "847f7a3b684b5e8c08f60ef88b7d784a",
+        "metadata": {
+            "category_depth": 0,
+            "emphasized_text_contents": [
+                "English-language\r\ncrisis line;"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "English-language\r\ncrisis line;",
+        "type": "Title"
+    },
+    {
+        "element_id": "37fe4a9306a0dba80eb0531ff269461e",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "SOS-Help",
+        "type": "Title"
+    },
+    {
+        "element_id": "cd426ab80c78f77e47b35e984c3a3fd2",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "Daily 3 pm - 11pm",
+        "type": "Title"
+    },
+    {
+        "element_id": "8a3cdb717c3a3e35614d114dce7a363d",
+        "metadata": {
+            "category_depth": 0,
+            "emphasized_text_contents": [
+                "Ambulance:"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "Ambulance:",
+        "type": "Title"
+    },
+    {
+        "element_id": "1ea909373e9f7f14db2c064cd7b9ecef",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "Call/phone: 15",
+        "type": "Title"
+    },
+    {
+        "element_id": "7110f980f8bb7a3fc118c4868c609e67",
+        "metadata": {
+            "category_depth": 0,
+            "emphasized_text_contents": [
+                "Hospitals:"
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "Hospitals:",
+        "type": "Title"
+    },
+    {
+        "element_id": "0a81d36266e542777d6dbd2a1ca49d59",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "Tel",
+        "type": "Title"
+    },
+    {
+        "element_id": "22c4dbdf2af9818d0c45061691b050c2",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "American Hospital of Paris",
+        "type": "Title"
+    },
+    {
+        "element_id": "e147bd1804201db1fd8a44a573665f09",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "63, Bd Victor Hugo",
+        "type": "Title"
+    },
+    {
+        "element_id": "88f1143c9d89163dd626d07df781753b",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2
+        },
+        "text": "92200 Neuilly-sur-Seine",
+        "type": "Title"
+    },
+    {
+        "element_id": "52e035ec967ab340399d28d1518634a3",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "Compare\r\nLondon tourist passes"
+            ],
+            "link_urls": [
+                "https://about-britain.com/tourism/compare-london-passes.htm"
+            ],
+            "page_number": 2
+        },
+        "text": "Compare\r\nLondon tourist passes too !",
+        "type": "Title"
+    },
+    {
+        "element_id": "8b2e3d08b52bd0e752bf19569889e95a",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2,
+            "parent_id": "52e035ec967ab340399d28d1518634a3"
+        },
+        "text": "Text\r\nand photos \u00a9 copyright About-France.com 2004-2024",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "73b7b1422931f507237ba0c5c5181b50",
+        "metadata": {
+            "emphasized_text_contents": [
+                "Website\r\nphotos and text copyright \u00a9 About-France.com\r\n2007 - 2024 unless otherwise indicated."
+            ],
+            "emphasized_text_tags": [
+                "span"
+            ],
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2,
+            "parent_id": "52e035ec967ab340399d28d1518634a3"
+        },
+        "text": "Website\r\nphotos and text copyright \u00a9 About-France.com\r\n2007 - 2024 unless otherwise indicated.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "234310cdaedc8a55e28210f9e740489a",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "\r\ncookie preferences"
+            ],
+            "link_urls": [
+                "cookies.htm"
+            ],
+            "page_number": 2,
+            "parent_id": "52e035ec967ab340399d28d1518634a3"
+        },
+        "text": "About-France.com\r\nrespects your privacy and does not collect data from\r\nusers. Cookies are used solely to log anonymous audience statistics and\r\nto\r\nenable certain essential page functions. To remove\r\nthis message, click\r\n\u00a0 ",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9207defbd4211472085ccd9163e99436",
+        "metadata": {
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "page_number": 2,
+            "parent_id": "52e035ec967ab340399d28d1518634a3"
+        },
+        "text": "or\r\notherwise learn more about setting",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3c5cd3fdab8219d2da7a93801d3e88c8",
+        "metadata": {
+            "category_depth": 0,
+            "filename": "touristpass.html",
+            "filetype": "text/html",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-05-14T21:10:58",
+            "link_texts": [
+                "\r\ncookie preferences"
+            ],
+            "link_urls": [
+                "cookies.htm"
+            ],
+            "page_number": 2
+        },
+        "text": "cookie preferences",
+        "type": "Title"
+    }
+]
