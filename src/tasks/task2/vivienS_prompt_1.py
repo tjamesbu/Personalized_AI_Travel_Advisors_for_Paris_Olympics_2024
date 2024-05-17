@@ -15,12 +15,12 @@ Context:
 - What is your budget for the trip?
 - Do you have any particular places that you want to visit?
 - How many person are travelling with you?
-- Do you have any assessibility concerns?
+- Do you have any accessibility concerns?
 - Where are you staying in Paris?
 
 You should reply with a customised itinerary based on the context above with the following answers:
 - Suggestions for travel passes that fit into their budget, where they stay in Paris and places to visit.
-- Suggestions of transportation that is suitable for their assessibility concerns and the number of people travelling with them.
+- Suggestions of transportation that is suitable for their accessibility concerns and the number of people travelling with them.
 - The itinerary should typically include the places they want to visit.
 - The itinerary should have a clear breakdown of activities from day to day.
 
