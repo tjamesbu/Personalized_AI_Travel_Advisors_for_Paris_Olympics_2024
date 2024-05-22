@@ -6,12 +6,9 @@
 ##************************************************************************
 
 from crewai import Agent
-#from langchain.llms import OpenAI
 from langchain_groq import ChatGroq
 import os
-# from tools.browser_tools import BrowserTools
-# from tools.calculator_tools import CalculatorTools
-# from tools.search_tools import SearchTools
+from calculator_tools import CalculatorTools
 from crewai_tools import ScrapeWebsiteTool, SerperDevTool
 from langchain_community.llms import HuggingFaceEndpoint
 
