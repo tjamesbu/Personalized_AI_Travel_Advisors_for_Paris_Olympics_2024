@@ -11,6 +11,8 @@ from langchain_core.runnables import RunnablePassthrough
 import json
 from dotenv import load_dotenv
 
+from websearch_crew import WebSearchCrew
+
 load_dotenv()
 
 gpt_llm = ChatOpenAI(model='gpt-3.5-turbo-0125', temperature=0.1)
@@ -76,15 +78,17 @@ def create_chain():
 
 def main():
     chain, memory = create_chain()
-    print(get_welcome_message())
+    print('\n\nAI (Fixed Msg): ' + get_welcome_message())
     while True:
-        res = chain.predict(input=input('Human: '))
+        res = chain.predict(input=input('\n\nHuman: '))
         if is_valid_json(res):
-            #print(f'---\n{res}\n---')
+            print(f'---\n{res}\n---')
             data = json.loads(res)
-            print("AI (thought): I have identifed user's need. I will use a tool to find data for the below details:")
+            print("\n\nAI (thought): I have identifed user's need. I will use a tool to find data for the below details:")
             print("   Category:", data["category"])
             print("   Subcategory:", data["subcategory"])
+            print("   Info:", data["info"])
+            print("   Topic:", data["topic"])
             if data["category"] == 'restaurant':
                 cuisine = data["subcategory"]
                 restaurant_chain=create_csv_rag_chain('restaurants.csv')
@@ -92,9 +96,14 @@ def main():
                 rag_output = restaurant_chain.invoke(rag_input)
                 # Inject the RAG response to converstaion memory
                 memory.save_context({"input": rag_input}, {"output": rag_output})
-                print('AI: ' + rag_output)
+                print('\n\nAI (RAG): ' + rag_output)
+            else:
+                crew = WebSearchCrew(data["topic"])
+                websearch_response = crew.search()
+                memory.save_context({"input": data["topic"]}, {"output": websearch_response})
+                print('\n\nAI (SearchCrew): ' + websearch_response)
         else:
-            print('AI: ' + res)
+            print('\n\nAI (Langchain/LLM): ' + res)
      
 
 
