@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?><Workbook 
+xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40"
+><ss:Styles><ss:Style ss:ID="header"><ss:Font ss:Bold="1" ss:Size="12"/></ss:Style><ss:Style ss:ID="datetime"></ss:Style><ss:Style ss:ID="date"><ss:NumberFormat ss:Format="Short Date" /></ss:Style><ss:Style ss:ID="double"></ss:Style><ss:Style ss:ID="text"></ss:Style><ss:Style ss:ID="file"></ss:Style><ss:Style ss:ID="boolean"></ss:Style><ss:Style ss:ID="geo_point_2d"></ss:Style><ss:Style ss:ID="geo_shape"></ss:Style><ss:Style ss:ID="int"></ss:Style></ss:Styles><Worksheet ss:Name="Sheet"><Table><Row ss:StyleID="header"><Cell><Data ss:Type="String">filename</Data></Cell><Cell><Data ss:Type="String">url</Data></Cell></Row><Row><Cell ss:Index="1" ss:StyleID="text"><Data ss:Type="String">IDFM_gtfs_jo</Data></Cell><Cell ss:Index="2" ss:StyleID="file"><Data ss:Type="String">https://data.iledefrance-mobilites.fr/api/datasets/1.0/offre-horaires-tc-gtfs_jop_2024-idfm/images/a8f5a65028f7ce75bf3fe368bd3372c4</Data></Cell></Row></Table><x:WorksheetOptions><x:PageSetup><x:Layout/><x:PageMargins/><x:Header/><x:Footer/></x:PageSetup></x:WorksheetOptions></Worksheet></Workbook>
