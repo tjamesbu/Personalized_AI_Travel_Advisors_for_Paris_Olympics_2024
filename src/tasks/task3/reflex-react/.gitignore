@@ -1,9 +1,0 @@
-*.db
-*.py[cod]
-.web
-__pycache__/
-.DS_Store
-.venv/
-venv/
-
-# env  # add it if you are using your own key in the env file
