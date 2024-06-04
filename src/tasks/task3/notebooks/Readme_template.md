@@ -1,4 +1,3 @@
-
 # Application Documentation
 
 ## References
@@ -10,10 +9,13 @@ Include any references or resources used (YouTube tutorials, Blogs, Github Repos
 Please include steps for "any" tricky or not-so-straightforward installations. 
 
 ## Tools Used
-**Webscraper**: <Name(s) of the api or None> 
-**Custom Data**: <URL to the data>  
-**LLM**: <Name(s) of the LLM used>  
-**Deployment**: <Name(s) of the deployment tools used> 
+**Webscraper**: Name(s) of the api or None
+
+**Custom Data**: URL(s) to the data
+
+**LLM**: Name(s) of the LLM used  
+
+**Deployment**: Name(s) of the deployment tools used
 
 ## Features Implemented
 - List the features that have been implemented so far...
