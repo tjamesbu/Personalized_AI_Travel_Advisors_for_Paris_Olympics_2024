@@ -1,0 +1,15 @@
+crewai
+unstructured
+pyowm
+python-dotenv
+langchain-openai
+gradio==4.29.0
+gradio-calendar
+opencage
+fpdf2
+folium
+geopy
+llama-index
+llama-index-llms-groq
+pycountry
+unidecode
