@@ -1,5 +1,13 @@
-I've used Reflex to quickly develop this tentative website.
-The chatbot area needs work.
+This is a site built with [Reflex](https://reflex.dev/) by JP Bianchi
+
+It can be deployed in various ways, on Reflex.dev (easiest) but also [self-hosted](https://reflex.dev/docs/hosting/self-hosting/).
+
+For deployment on reflex.dev, simply cd to this directory and do
+`reflex init`
+`reflex deploy`
+
+The chat box has to be fixed (small charcters, action bar too long) and a logo.png must be added to 'assets'.  
+And the env file must be given a proper OPENAI_API_KEY, or passed during deploy, or use another LLM.  
 
 <p align="left">
   <img src="assets/screenshot.jpg"  width="700px" />
