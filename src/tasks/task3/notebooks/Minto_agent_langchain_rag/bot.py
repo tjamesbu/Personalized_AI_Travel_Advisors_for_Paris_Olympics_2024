@@ -17,71 +17,98 @@ load_dotenv()
 
 gpt_llm = ChatOpenAI(model='gpt-3.5-turbo-0125', temperature=0.1)
 
-
-def get_welcome_message():
-    message = '''Hello! I'm an AI assistant here to help visitors exploring the city of Paris.
-    Feel free to let me know how I can assist you.'''
-    return message
-
-
-def is_valid_json(json_string):
-    try:
-        json.loads(json_string)
-    except json.JSONDecodeError:
-        return False
-    return True
+class Bot:
+    def get_welcome_message(self):
+        message = '''Hello! I'm an AI assistant here to help visitors exploring the city of Paris.
+        Feel free to let me know how I can assist you.'''
+        return message
 
 
-
-def get_prompt_template():
-    prompt_file = open('prompt_template.txt', 'r')
-    prompt_content = prompt_file.read()
-    return prompt_content.strip()
+    def is_valid_json(self, json_string):
+        try:
+            json.loads(json_string)
+        except json.JSONDecodeError:
+            return False
+        return True
 
 
 
-def create_csv_rag_chain(csv_filename):
-    embedding_function = OpenAIEmbeddings()
-
-    loader = CSVLoader(csv_filename)
-    documents = loader.load()
-
-    db = Chroma.from_documents(documents, embedding_function)
-    retriever = db.as_retriever()
-
-    template = """Answer the question based only on the following context:
-    {context}
-
-    Question: {question}
-    """
-    prompt = ChatPromptTemplate.from_template(template)
-    model = ChatOpenAI()
-    chain = (
-        {"context": retriever, "question": RunnablePassthrough()}
-        | prompt
-        | model
-        | StrOutputParser()
-    )
-    return chain
+    def get_prompt_template(self):
+        prompt_file = open('prompt_template.txt', 'r')
+        prompt_content = prompt_file.read()
+        return prompt_content.strip()
 
 
 
-def create_chain():
-    template = get_prompt_template()
-    prompt = PromptTemplate(input_variables=["history", "input"], template=template)
-    #print(template)
-    memory = ConversationBufferWindowMemory(memory_key="history", k=6, return_only_outputs=True)
-    chain = ConversationChain(llm=gpt_llm, memory=memory, prompt=prompt, verbose=False)
-    return chain, memory
+    def create_csv_rag_chain(self, csv_filename):
+        embedding_function = OpenAIEmbeddings()
+
+        loader = CSVLoader(csv_filename)
+        documents = loader.load()
+
+        db = Chroma.from_documents(documents, embedding_function)
+        retriever = db.as_retriever()
+
+        template = """Answer the question based only on the following context:
+        {context}
+
+        Question: {question}
+        """
+        prompt = ChatPromptTemplate.from_template(template)
+        model = ChatOpenAI()
+        chain = (
+            {"context": retriever, "question": RunnablePassthrough()}
+            | prompt
+            | model
+            | StrOutputParser()
+        )
+        return chain
+
+
+
+    def create_chain(self):
+        template = self.get_prompt_template()
+        prompt = PromptTemplate(input_variables=["history", "input"], template=template)
+        #print(template)
+        memory = ConversationBufferWindowMemory(memory_key="history", k=6, return_only_outputs=True)
+        chain = ConversationChain(llm=gpt_llm, memory=memory, prompt=prompt, verbose=False)
+        return chain, memory
+
+
+
+    def chat(self, user_message):
+        llm_response = self.chain.predict(input=user_message)
+        if self.is_valid_json(llm_response):
+            data = json.loads(llm_response)
+            if data["category"] == 'restaurant':
+                cuisine = data["subcategory"]
+                restaurant_chain=self.create_csv_rag_chain('restaurants.csv')
+                rag_input = f'Return three {cuisine} restaurants with top rating.'
+                rag_output = restaurant_chain.invoke(rag_input)
+                # Inject the RAG response to converstaion memory
+                self.memory.save_context({"input": rag_input}, {"output": rag_output})
+                return rag_output
+            else:
+                crew = WebSearchCrew(data["topic"])
+                websearch_response = crew.search()
+                self.memory.save_context({"input": data["topic"]}, {"output": websearch_response})
+                return websearch_response
+        else:
+           return llm_response
+    
+    
+    def __init__(self) -> None:
+        self.chain, self.memory = self.create_chain()
 
 
 
 def main():
-    chain, memory = create_chain()
-    print('\n\nAI (Fixed Msg): ' + get_welcome_message())
+    mybot = Bot()
+    chain, memory = mybot.create_chain()
+    print('\n\nAI (Fixed Msg): ' + mybot.get_welcome_message())
     while True:
         res = chain.predict(input=input('\n\nHuman: '))
-        if is_valid_json(res):
+        if mybot.is_valid_json(res):
             print(f'---\n{res}\n---')
             data = json.loads(res)
             print("\n\nAI (thought): I have identifed user's need. I will use a tool to find data for the below details:")
@@ -91,7 +118,7 @@ def main():
             print("   Topic:", data["topic"])
             if data["category"] == 'restaurant':
                 cuisine = data["subcategory"]
-                restaurant_chain=create_csv_rag_chain('restaurants.csv')
+                restaurant_chain=mybot.create_csv_rag_chain('restaurants.csv')
                 rag_input = f'Return three {cuisine} restaurants with top rating.'
                 rag_output = restaurant_chain.invoke(rag_input)
                 # Inject the RAG response to converstaion memory
