@@ -1,0 +1,2 @@
+PARIS_PRIM_API_KEY=[register at https://prim.iledefrance-mobilites.fr/en/]
+TRANSPORT_API_DATA_FOLDER_PATH=[absolute folder path to store the retrieved data from API call]
