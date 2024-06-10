@@ -11,23 +11,61 @@ import os
 from langchain_community.llms import HuggingFaceEndpoint
 from crewai_tools import SerperDevTool
 
-#tool used
 serper_tool = SerperDevTool(api_key=os.environ["SERPER_API_KEY"])
 
 # using the model from Groq cloud API-- > https://console.groq.com
 # need to put the API key in the .env file
 llm = ChatGroq(temperature=0.1, groq_api_key=os.environ["GROQ_API_KEY"], model_name="llama3-70b-8192")
 
+def streamlit_callback(step_output):
+    # This function will be called after each step of the agent's execution
+    st.markdown("---")
+    for step in step_output:
+        if isinstance(step, tuple) and len(step) == 2:
+            action, observation = step
+            if isinstance(action, dict) and "tool" in action and "tool_input" in action and "log" in action:
+                st.markdown(f"# Action")
+                st.markdown(f"**Tool:** {action['tool']}")
+                st.markdown(f"**Tool Input** {action['tool_input']}")
+                st.markdown(f"**Log:** {action['log']}")
+                st.markdown(f"**Action:** {action['Action']}")
+                st.markdown(
+                    f"**Action Input:** ```json\n{action['tool_input']}\n```")
+            elif isinstance(action, str):
+                st.markdown(f"**Action:** {action}")
+            else:
+                st.markdown(f"**Action:** {str(action)}")
+
+            st.markdown(f"**Observation**")
+            if isinstance(observation, str):
+                observation_lines = observation.split('\n')
+                for line in observation_lines:
+                    if line.startswith('Title: '):
+                        st.markdown(f"**Title:** {line[7:]}")
+                    elif line.startswith('Link: '):
+                        st.markdown(f"**Link:** {line[6:]}")
+                    elif line.startswith('Snippet: '):
+                        st.markdown(f"**Snippet:** {line[9:]}")
+                    elif line.startswith('-'):
+                        st.markdown(line)
+                    else:
+                        st.markdown(line)
+            else:
+                st.markdown(str(observation))
+        else:
+            st.markdown(step)
+
 class ParisSyndromeAdvisor():
 
   def information_gatherer(self):
     return Agent(
       role='Website scraper',
-      goal='Scrape the contents of the webiste URLs',
+      goal='Scrape the contents of the website URLs',
       backstory="""An efficient information extractor who gathers the relevant information""",
       verbose=True,
       llm=llm,
-      allow_delegation=False
+      allow_delegation=False,
+      step_callback = streamlit_callback
     )
 
   def emotional_support(self):
@@ -38,9 +76,9 @@ class ParisSyndromeAdvisor():
         tools = [serper_tool],
         verbose=True,
         llm=llm,
-        max_rpm = 2,
+        max_iter = 5,
         allow_delegation=False,
-        
+        step_callback = streamlit_callback
     )
 
   def cultural_advisor(self):
@@ -51,9 +89,9 @@ class ParisSyndromeAdvisor():
         tools = [serper_tool],
         verbose=True,
         llm=llm,
-        max_rpm = 2,
+        max_iter = 5,
         allow_delegation=False,
-        
+        step_callback=streamlit_callback
     )
 
   def safety_advisor(self):
@@ -64,5 +102,7 @@ class ParisSyndromeAdvisor():
       tools = [serper_tool],
       verbose = True,
       llm=llm,
-      max_rpm = 2,
+      max_iter= 5,
+      allow_delegation = False,
+      step_callback = streamlit_callback
     )
