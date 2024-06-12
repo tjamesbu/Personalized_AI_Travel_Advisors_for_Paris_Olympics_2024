@@ -44,7 +44,8 @@ def initiate_chat(message):
     cities = text_input_dest.value
     date_range = date_ranges.value
     interests = text_area_input.value
-    trip_crew = TripCrew(location, cities, date_range, interests)
+    # trip_crew = TripCrew(location, cities, date_range, interests)
+    trip_crew = TripCrew()
     result = trip_crew.run()
 
 
@@ -66,7 +67,8 @@ def callback(contents: str, user: str, instance: pn.chat.ChatInterface):
     else:
         user_input = contents
 
-avators = {"city_selector_agent":"https://cdn-icons-png.flaticon.com/512/320/320336.png",
+avators = {"travels_representative_agent":"https://cdn-icons-png.flaticon.com/512/320/320336.png",
+            "city_selector_agent":"https://cdn-icons-png.flaticon.com/512/320/320336.png",
             "local_expert_agent":"https://cdn-icons-png.freepik.com/512/9408/9408201.png",
             "travel_concierge_agent":"https://cdn-icons-png.flaticon.com/512/320/320336.png"}
 
@@ -92,16 +94,21 @@ class MyCustomHandler(BaseCallbackHandler):
 
 class TripCrew:
 
-    def __init__(self, origin, cities, date_range, interests):
-        self.cities = cities
-        self.origin = origin
-        self.interests = interests
-        self.date_range = date_range
+    def __init__(self):
+        pass
+        
+    # def __init__(self, origin, cities, date_range, interests):
+    #     self.cities = cities
+    #     self.origin = origin
+    #     self.interests = interests
+    #     self.date_range = date_range
 
     def run(self):
         agents = TripAgents()
         tasks = TripTasks()
 
+        travels_representative_agent = agents.travels_representative()
+        travels_representative_agent.callbacks = [MyCustomHandler("travels_representative")]
         city_selector_agent = agents.city_selection_agent()
         city_selector_agent.callbacks = [MyCustomHandler("city_selector")]
         local_expert_agent = agents.local_expert()
@@ -109,35 +116,43 @@ class TripCrew:
         travel_concierge_agent = agents.travel_concierge()
         travel_concierge_agent.callbacks = [MyCustomHandler("travel_concierge")]
 
+        collect_tasks = tasks.collect_details(
+            travels_representative_agent,
+        )
         identify_task = tasks.identify_task(
             city_selector_agent,
-            self.origin,
-            self.cities,
-            self.interests,
-            self.date_range
+            # self.origin,
+            # self.cities,
+            # self.interests,
+            # self.date_range
         )
-
+        identify_task.context = [collect_tasks]
         gather_task = tasks.gather_task(
             local_expert_agent,
-            self.origin,
-            self.interests,
-            self.date_range
+            # self.origin,
+            # self.interests,
+            # self.date_range
         )
 
         plan_task = tasks.plan_task(
             travel_concierge_agent,
-            self.origin,
-            self.interests,
-            self.date_range
+            # self.origin,
+            # self.interests,
+            # self.date_range
         )
 
         crew = Crew(
             agents=[
-                city_selector_agent, local_expert_agent, travel_concierge_agent
+                travels_representative_agent, city_selector_agent, local_expert_agent, travel_concierge_agent
             ],
-            tasks=[identify_task, gather_task, plan_task],
+            tasks=[collect_tasks, identify_task, gather_task, plan_task],
             full_output=False,
             verbose=True,
+            embedder= {
+            "provider": "huggingface",
+            "config":{
+                "model": 'NV-Embed-v1'
+            }}
         )
 
         result = crew.kickoff()
