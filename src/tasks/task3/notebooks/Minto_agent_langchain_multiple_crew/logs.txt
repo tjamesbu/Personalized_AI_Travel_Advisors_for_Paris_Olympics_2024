@@ -559,3 +559,68 @@ Take care, and feel free to reach out again if you need more support.
 Warm regards,
 
 [Your Name]2024-06-06 11:18:54: status=completed
+agent=Mental Health Advisor2024-06-06 11:38:55: task=
+                You are an intelligent AI assistant for supporting the visitors to the city of Paris.
+                I will provide you with an individual looking for guidance and advice on managing their emotions, stress, anxiety and other mental health issues arising due to Paris syndrome. 
+                Use your knowledge of cognitive behavioral therapy, meditation techniques, mindfulness practices, and other therapeutic methods in order to provide a brief recommendation that the individual can implement in order to improve their overall wellbeing.
+                Refer the below questions and answers to provide the best advice. 
+
+                Q: What were your expectations of Paris before you arrived? Were there specific places or experiences you were looking forward to in Paris?
+A: I thought Paris is the most beutiful city. I wanted to see Eiffel Tower, but actually seeing it killed all my interest about Paris.
+
+Q: How have your experiences in Paris differed from your expectations? Can you describe specific incidents or aspects of Paris that have been disappointing or distressing?
+A: The people are really rude here
+
+Q: How are you feeling emotionally and mentally during your visit to Paris? Have you experienced symptoms like anxiety, depression, or disorientation since arriving in Paris?
+A: Not much.. Just had bit of shock. that's all
+
+Q: How have your interactions with locals and other tourists been? Have you faced any language barriers or cultural misunderstandings?
+A: Not very good.. it seems they expect me to speak French
+
+Q: How are you currently coping with your feelings of disappointment or distress? Are there any activities or places in Paris that have helped improve your mood or alleviate stress?
+A: I just sit in my hotel room and watch tv
+
+Q: Do you have friends, family, or acquaintances in Paris you can talk to about your feelings? Are you in contact with any mental health professionals or support groups?
+A: nope
+
+Q: How long do you plan to stay in Paris? Do you have any flexibility in your travel plans to visit other places or change your itinerary?
+A: just till this weekend
+
+Q: Have you sought any medical or psychological assistance since experiencing these feelings? Do you feel safe and secure in your current accommodation and surroundings?
+A: Not yet, I think I will be fine
+
+Q: Looking back, is there anything you think could have prepared you better for this trip? What advice would you give to someone planning a trip to Paris to help them set realistic expectations?
+A: I should have planned a shorter trip
+
+Q: Is this your first time traveling abroad, or have you had similar experiences in other destinations? Can you share a bit about your general travel preferences and past travel experiences?
+A: Not my first trip.. I travelled to London last year, and it was fine
+2024-06-06 11:38:55: status=started
+agent=Mental Health Advisor2024-06-06 11:39:04: task=Hello there,
+
+I'm sorry to hear that your experience in Paris hasn't met your expectations and that you're feeling distressed. It's important to know that your feelings are valid and quite common among travelers experiencing Paris Syndrome. Many people come to Paris with high expectations, and it can be quite a shock when reality doesn't match up.
+
+From what you've shared, it seems that the rudeness of people and the language barrier have been particularly distressing for you. Additionally, the disappointment with the Eiffel Tower and the overall experience has left you feeling disheartened. 
+
+Here are some immediate self-care actions and coping strategies that might help improve your overall well-being during the remainder of your trip:
+
+1. **Practice Mindfulness and Meditation**: Take a few moments each day to practice mindfulness or meditation. This can help ground you and reduce feelings of anxiety or stress. You can find guided meditation apps or videos online that can be very helpful.
+
+2. **Cognitive Behavioral Techniques**: Try to reframe your thoughts about Paris. Instead of focusing on the negative aspects, look for small positives. For example, appreciate the architecture, the art, or even a pleasant meal. Challenge negative thoughts by asking yourself if they are entirely true or if there might be another perspective.
+
+3. **Engage in Enjoyable Activities**: Instead of staying in your hotel room, try to engage in activities that you might enjoy. Visit a quiet park, a museum, or a café where you can relax and people-watch. Sometimes, a change of scenery can make a big difference.
+
+4. **Self-Compassion**: Be kind to yourself. It's okay to feel disappointed, and it's okay to take things slow. Allow yourself to feel your emotions without judgment.
+
+5. **Language Tools**: Use translation apps to help with the language barrier. Even a few basic phrases in French can go a long way in improving interactions with locals.
+
+6. **Reach Out**: Although you mentioned you don't have friends or family in Paris, consider reaching out to them via phone or video call. Talking to someone you trust can provide comfort and support.
+
+7. **Plan Short Outings**: Since you’re only staying until the weekend, plan short, manageable outings that don’t overwhelm you. This way, you can still experience parts of Paris without feeling too stressed.
+
+If your feelings of distress persist, it might be helpful to seek support from a mental health professional, even if it's just a brief consultation. Your well-being is important, and there are resources available to help you.
+
+Remember, it's okay to feel the way you do, and you're not alone in this. If you need further support or advice, don't hesitate to reach out again.
+
+Take care and safe travels,
+
+[Your Mental Health Advisor]2024-06-06 11:39:04: status=completed

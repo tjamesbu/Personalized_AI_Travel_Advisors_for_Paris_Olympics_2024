@@ -15,14 +15,6 @@ for message in st.session_state.messages:
     with st.chat_message(message['role']):
         st.markdown(message['content'])
 
-# initial_msg
-initial_msg = st.session_state.bot.get_welcome_message()
-# Display assistant response in chat message container
-with st.chat_message('assistant'):
-    st.markdown(initial_msg)
-# Add assistant response to chat history
-st.session_state.messages.append({'role': 'assistant', 'content': initial_msg})
-
 # React to user input
 if prompt := st.chat_input('Ask me your question about Paris.'):
     # Display user message in chat message container

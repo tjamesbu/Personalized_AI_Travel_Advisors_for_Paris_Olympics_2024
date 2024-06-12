@@ -128,7 +128,7 @@ class Bot:
                     return rag_response
                 else:
                     crew = WebSearchCrew(data["request"])
-                    websearch_response = crew.search()
+                    websearch_response = crew.kickoff()
                     self.inject_memory(data["request"], websearch_response)
                     return websearch_response
             else:
