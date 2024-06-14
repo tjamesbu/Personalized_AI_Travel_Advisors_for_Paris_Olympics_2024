@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-llm_client = ChatOpenAI(model='gpt-3.5-turbo-0125', temperature=0.1)
+llm = ChatOpenAI(model='gpt-3.5-turbo-0125', temperature=0.1)
 
 
 search = TavilySearchAPIWrapper()
@@ -32,7 +32,7 @@ class WebSearchCrew():
             goal=f'Search the internet for the latest news , announcement about {research_topic} with accurate sourcing.',
             backstory="""As a Researcher, passionate about technology industry's forefront, you meticulously gather and verify the latest business trend and products developments. Your quest for truth requires verifying the authenticity of information, ensuring a credible knowledge base for informed decision-making.""",
             verbose=False,
-            llm=llm_client
+            llm=llm
         )
 
         # Create tasks for the agents
@@ -52,7 +52,7 @@ class WebSearchCrew():
             verbose=False,
         )
 
-    def search(self):
+    def kickoff(self):
         result = self.search_crew.kickoff()
         return result
 
